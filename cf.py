@@ -228,4 +228,4 @@ def intersection(lst1, lst2):
 
 # Running Main
 if __name__ == '__main__':
-    main()% 
+    main()
